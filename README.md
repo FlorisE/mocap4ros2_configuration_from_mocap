@@ -1,4 +1,4 @@
-= MOCAP4ROS2 Configuration Estimator using Motion Capture Markers =
+# MOCAP4ROS2 Configuration Estimator using Motion Capture Markers
 
 Work in progress. The ROS 1 version can be found at https://www.github.com/FlorisE/frame_marker_tracking.
 
